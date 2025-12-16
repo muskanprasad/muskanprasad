@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muskan
+- 😄 Pronouns: she/her
 - 👀 I’m interested in building fun projects
 - 🌱 I’m currently learning a whole lot of technologies and designing
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: money is actually EVERYTHING
 
 <!---
